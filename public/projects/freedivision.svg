@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480">
+  <!-- Illustration: CRM data turned into generated PDF offers -->
+  <rect width="400" height="480" fill="#7DE3C0"/>
+  <g stroke="#1C1E3A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="36" y="48" width="200" height="150" rx="12" fill="#fff"/>
+    <path d="M36 80h200" fill="none"/>
+    <circle cx="56" cy="64" r="5" fill="#FF9BB3"/><circle cx="74" cy="64" r="5" fill="#FFD84D"/><circle cx="92" cy="64" r="5" fill="#7DE3C0"/>
+    <rect x="54" y="98" width="28" height="28" rx="14" fill="#C9BDFF"/>
+    <path d="M96 106h110M96 120h70" fill="none" stroke-width="3"/>
+    <rect x="54" y="140" width="28" height="28" rx="14" fill="#FFD84D"/>
+    <path d="M96 148h96M96 162h80" fill="none" stroke-width="3"/>
+    <path d="M150 214c10 40 40 60 80 62" fill="none" stroke-dasharray="2 10"/>
+    <path d="M222 264l12 12-14 8" fill="none"/>
+    <rect x="216" y="262" width="140" height="180" rx="8" fill="#fff" transform="rotate(6 286 352)"/>
+    <rect x="200" y="254" width="140" height="180" rx="8" fill="#fff"/>
+    <path d="M300 254v34h40" fill="#FFD84D"/>
+    <path d="M300 254l40 34" fill="none"/>
+    <rect x="218" y="306" width="56" height="26" rx="6" fill="#FF9BB3"/>
+    <path d="M218 350h100M218 366h84M218 382h96" fill="none" stroke-width="3"/>
+    <path d="M218 408h46" fill="none" stroke="#3A5BFF" stroke-width="5"/>
+  </g>
+  <text x="246" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="15" fill="#1C1E3A">PDF</text>
+</svg>

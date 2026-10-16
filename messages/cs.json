@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "title": "Michal Lipka – vývoj aplikací a infrastruktura",
+    "description": "Michal Lipka – vývojář webových, systémových a mobilních aplikací a infrastructure engineer. PHP, TypeScript, Python, Java, Next.js, Laravel, Expo, Docker, Kubernetes.",
+    "jobTitle": "Vývojář a infrastructure engineer",
+    "ogAlt": "Michal Lipka – vývoj aplikací a infrastruktura"
+  },
+  "nav": {
+    "about": "O mně",
+    "services": "Služby",
+    "stack": "Technologie",
+    "projects": "Projekty",
+    "experience": "Praxe",
+    "contact": "Kontakt",
+    "language": "Jazyk webu",
+    "skip": "Přeskočit na obsah",
+    "main": "Hlavní navigace"
+  },
+  "hero": {
+    "role": "Vývojář webových, systémových a mobilních aplikací a infrastructure engineer.",
+    "lead": "Navrhuji, vyvíjím a provozuji softwarová řešení včetně infrastruktury, na které běží – od návrhu databáze přes backend a frontend až po servery, nasazení a následnou správu.",
+    "ctaEmail": "Kontaktovat",
+    "ctaExperience": "Zobrazit praxi",
+    "since": "v praxi od {year}",
+    "labels": {
+      "web": "web",
+      "mobile": "mobil",
+      "server": "infrastruktura",
+      "data": "data"
+    },
+    "sketchAlt": "Kreslené schéma: webová aplikace a mobilní aplikace posílají data na server, který je ukládá do databáze."
+  },
+  "about": {
+    "title": "O mně",
+    "text1": "Jsem vývojář a infrastructure engineer z České republiky. Od roku {year} se profesionálně zabývám návrhem a vývojem webových, systémových a mobilních aplikací.",
+    "text2": "Spojuji vývoj s infrastrukturou. Kromě samotné aplikace navrhuji i prostředí, ve kterém běží – servery, virtualizaci, databáze, nasazení a provoz. Klient tak spolupracuje s jedním člověkem, který rozumí celému systému.",
+    "photoAlt": "Ilustrační fotografie (bude nahrazena)",
+    "facts": {
+      "location": "Lokalita",
+      "locationValue": "Česká republika",
+      "since": "V oboru od",
+      "years": "{count, plural, one {# rok} few {# roky} other {# let}} praxe",
+      "focus": "Zaměření",
+      "focusValue": "Webové, systémové a mobilní aplikace, infrastruktura",
+      "languages": "Jazyky",
+      "languagesValue": "Čeština (rodilý mluvčí), angličtina (pokročilá)"
+    },
+    "cv": "Stáhnout CV (PDF)"
+  },
+  "services": {
+    "title": "Služby",
+    "aside": "vyberte oblast",
+    "stackLabel": "Technologie",
+    "items": {
+      "web": {
+        "name": "Webové aplikace",
+        "text": "Vývoj webových aplikací, interních systémů a API na míru. Na backendu Laravel, na frontendu Next.js a TypeScript – s důrazem na dobře navržený datový model, výkon a dlouhodobou udržitelnost.",
+        "points": [
+          "Webové aplikace a interní systémy",
+          "REST API a integrace třetích stran",
+          "Administrace a správa dat"
+        ],
+        "stack": [
+          "Next.js",
+          "Laravel",
+          "TypeScript",
+          "PHP"
+        ]
+      },
+      "systems": {
+        "name": "Systémové aplikace",
+        "text": "Backendové služby a nástroje běžící na pozadí – zpracování dat, automatizace procesů a integrace mezi jednotlivými systémy.",
+        "points": [
+          "Backendové služby",
+          "Automatizace procesů",
+          "Integrace systémů"
+        ],
+        "stack": [
+          "Python",
+          "Java",
+          "PHP"
+        ]
+      },
+      "mobile": {
+        "name": "Mobilní aplikace",
+        "text": "Mobilní aplikace pro iOS a Android z jednoho kódu v Expo (React Native), napojené na vlastní backend a API.",
+        "points": [
+          "Aplikace pro iOS a Android",
+          "Napojení na backend a API",
+          "Publikace do App Store a Google Play"
+        ],
+        "stack": [
+          "Expo",
+          "TypeScript"
+        ]
+      },
+      "infrastructure": {
+        "name": "Infrastruktura",
+        "text": "Návrh, výstavba a provoz infrastruktury, na které aplikace běží – servery a virtualizace, kontejnery, síť a databáze.",
+        "points": [
+          "Virtualizace a kontejnerizace",
+          "Síťová infrastruktura a firewall",
+          "Databáze, nasazení a provoz"
+        ],
+        "stack": [
+          "Docker",
+          "Kubernetes",
+          "Proxmox",
+          "OPNsense"
+        ]
+      }
+    }
+  },
+  "stack": {
+    "title": "Technologie",
+    "groups": {
+      "languages": "Jazyky",
+      "databases": "Databáze",
+      "frameworks": "Frameworky",
+      "infrastructure": "Infrastruktura"
+    }
+  },
+  "projects": {
+    "title": "Projekty",
+    "aside": "vybrané realizace",
+    "screenshot": "sem screenshot",
+    "open": "Zobrazit projekt",
+    "items": [
+      {
+        "title": "RobStark",
+        "type": "Sázkové poradenství",
+        "url": "https://www.robstark.cz",
+        "image": "/projects/robstark.jpg",
+        "text": "Kompletní technické zajištění projektu – návrh infrastruktury a řízení vývoje webu, interního CRM systému a mobilní aplikace.",
+        "tags": [
+          "Návrh infrastruktury",
+          "Řízení vývoje",
+          "Web",
+          "Interní CRM",
+          "Mobilní aplikace"
+        ]
+      },
+      {
+        "title": "CSP Partners",
+        "type": "Integrace s CRM",
+        "image": "/projects/csp-partners.svg",
+        "text": "Integrace interního CRM systému klienta s Raynet CRM.",
+        "tags": [
+          "Laravel",
+          "Vue.js",
+          "Raynet CRM"
+        ]
+      },
+      {
+        "title": "FreeDivision",
+        "type": "Integrace s CRM",
+        "image": "/projects/freedivision.svg",
+        "text": "Integrace s Raynet CRM pro automatické generování PDF nabídek potenciálním zákazníkům.",
+        "tags": [
+          "Laravel",
+          "Vue.js",
+          "Raynet CRM"
+        ]
+      },
+      {
+        "title": "Batlify",
+        "type": "Hosting a cloudová infrastruktura",
+        "url": "https://www.batlify.com",
+        "image": "/projects/batlify.jpg",
+        "text": "Vlastní společnost poskytující virtuální datacentra, rack housing, registraci domén a software na míru. Zodpovídám za kompletní technické řešení – od návrhu a výstavby infrastruktury přes web a administraci až po interní systémy.",
+        "tags": [
+          "Návrh a výstavba infrastruktury",
+          "Virtuální datacentra",
+          "Web",
+          "Administrace",
+          "Interní systémy"
+        ],
+        "badge": "Ve vývoji"
+      }
+    ],
+    "shotAlt": "Ukázka projektu {name}",
+    "more": {
+      "title": "Další projekty",
+      "text": "Uvedené projekty představují jen malou část mé práce. Přehled dalších realizací a referencí vám rád poskytnu na vyžádání.",
+      "cta": "Vyžádat reference",
+      "subject": "Žádost o reference"
+    },
+    "openLabel": "Zobrazit projekt {name}"
+  },
+  "experience": {
+    "title": "Praxe",
+    "aside": "profesní praxe",
+    "items": [
+      {
+        "period": "12/2019 – dosud",
+        "role": "Jednatel (CEO)",
+        "company": "Batlify Internet s.r.o.",
+        "text": "Řízení společnosti a odpovědnost za kompletní technické řešení – návrh a výstavba infrastruktury, vývoj webu, administrace a interních systémů."
+      },
+      {
+        "period": "09/2026 – dosud",
+        "role": "Lektor",
+        "company": "IT - svet mladých, o.z.",
+        "text": "Příležitostná výuka na školách v roli externího lektora."
+      },
+      {
+        "period": "04/2024 – dosud",
+        "role": "Externí programátor a dodavatel",
+        "company": "ALUnico s.r.o.",
+        "text": ""
+      },
+      {
+        "period": "09/2023 – 05/2024",
+        "role": "Zákaznická péče",
+        "company": "Conectart CZ",
+        "text": "Zákaznická podpora pro klienty Vodafone (SAZKAmobil)."
+      }
+    ],
+    "summary": "Od roku {year} se profesionálně věnuji vývoji webových, systémových a mobilních aplikací a návrhu a provozu infrastruktury.",
+    "cv": "Stáhnout celé CV (PDF)"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "text": "Potřebujete vyvinout aplikaci, převzít správu existujícího systému nebo navrhnout infrastrukturu? Napište mi a domluvíme se na dalším postupu.",
+    "copy": "Zkopírovat e-mail",
+    "copied": "E-mail zkopírován",
+    "write": "Napsat e-mail"
+  },
+  "footer": {
+    "rights": "© {year} Michal Lipka",
+    "top": "Zpět nahoru"
+  }
+}

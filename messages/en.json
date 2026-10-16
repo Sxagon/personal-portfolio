@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "title": "Michal Lipka – software development and infrastructure",
+    "description": "Michal Lipka – software developer of web, system and mobile applications and infrastructure engineer. PHP, TypeScript, Python, Java, Next.js, Laravel, Expo, Docker, Kubernetes.",
+    "jobTitle": "Software developer and infrastructure engineer",
+    "ogAlt": "Michal Lipka – software development and infrastructure"
+  },
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "stack": "Tech stack",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact",
+    "language": "Site language",
+    "skip": "Skip to content",
+    "main": "Main navigation"
+  },
+  "hero": {
+    "role": "Software developer of web, system and mobile applications and infrastructure engineer.",
+    "lead": "I design, build and operate software solutions together with the infrastructure they run on – from database design through backend and frontend to servers, deployment and ongoing maintenance.",
+    "ctaEmail": "Get in touch",
+    "ctaExperience": "View experience",
+    "since": "working since {year}",
+    "labels": {
+      "web": "web",
+      "mobile": "mobile",
+      "server": "infrastructure",
+      "data": "data"
+    },
+    "sketchAlt": "Hand-drawn diagram: a web app and a mobile app send data to a server, which stores it in a database."
+  },
+  "about": {
+    "title": "About",
+    "text1": "I am a software developer and infrastructure engineer based in the Czech Republic. Since {year} I have been professionally designing and building web, system and mobile applications.",
+    "text2": "I bridge development and infrastructure. Beyond the application itself, I design the environment it runs in – servers, virtualization, databases, deployment and operations. Clients work with one person who understands the entire system.",
+    "photoAlt": "Placeholder photo (to be replaced)",
+    "facts": {
+      "location": "Location",
+      "locationValue": "Czech Republic",
+      "since": "In the field since",
+      "years": "{count, plural, one {# year} other {# years}} of experience",
+      "focus": "Focus",
+      "focusValue": "Web, system and mobile applications, infrastructure",
+      "languages": "Languages",
+      "languagesValue": "Czech (native), English (advanced)"
+    },
+    "cv": "Download CV (PDF)"
+  },
+  "services": {
+    "title": "Services",
+    "aside": "select an area",
+    "stackLabel": "Tech",
+    "items": {
+      "web": {
+        "name": "Web applications",
+        "text": "Custom web applications, internal systems and APIs. Laravel on the backend, Next.js and TypeScript on the frontend – with an emphasis on a well-designed data model, performance and long-term maintainability.",
+        "points": [
+          "Web applications and internal systems",
+          "REST APIs and third-party integrations",
+          "Admin panels and data management"
+        ],
+        "stack": [
+          "Next.js",
+          "Laravel",
+          "TypeScript",
+          "PHP"
+        ]
+      },
+      "systems": {
+        "name": "System applications",
+        "text": "Backend services and background tools – data processing, process automation and integrations between systems.",
+        "points": [
+          "Backend services",
+          "Process automation",
+          "System integrations"
+        ],
+        "stack": [
+          "Python",
+          "Java",
+          "PHP"
+        ]
+      },
+      "mobile": {
+        "name": "Mobile applications",
+        "text": "Mobile applications for iOS and Android from a single codebase in Expo (React Native), connected to a dedicated backend and API.",
+        "points": [
+          "iOS and Android applications",
+          "Backend and API integration",
+          "App Store and Google Play releases"
+        ],
+        "stack": [
+          "Expo",
+          "TypeScript"
+        ]
+      },
+      "infrastructure": {
+        "name": "Infrastructure",
+        "text": "Design, build-out and operation of the infrastructure applications run on – servers and virtualization, containers, networking and databases.",
+        "points": [
+          "Virtualization and containerization",
+          "Network infrastructure and firewalls",
+          "Databases, deployment and operations"
+        ],
+        "stack": [
+          "Docker",
+          "Kubernetes",
+          "Proxmox",
+          "OPNsense"
+        ]
+      }
+    }
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": {
+      "languages": "Languages",
+      "databases": "Databases",
+      "frameworks": "Frameworks",
+      "infrastructure": "Infrastructure"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "aside": "selected work",
+    "screenshot": "screenshot here",
+    "open": "View project",
+    "items": [
+      {
+        "title": "RobStark",
+        "type": "Betting advisory",
+        "url": "https://www.robstark.cz",
+        "image": "/projects/robstark.jpg",
+        "text": "End-to-end technical delivery – infrastructure design and management of the development of the website, internal CRM system and mobile application.",
+        "tags": [
+          "Infrastructure design",
+          "Development management",
+          "Website",
+          "Internal CRM",
+          "Mobile app"
+        ]
+      },
+      {
+        "title": "CSP Partners",
+        "type": "CRM integration",
+        "image": "/projects/csp-partners.svg",
+        "text": "Integration of the client's internal CRM system with Raynet CRM.",
+        "tags": [
+          "Laravel",
+          "Vue.js",
+          "Raynet CRM"
+        ]
+      },
+      {
+        "title": "FreeDivision",
+        "type": "CRM integration",
+        "image": "/projects/freedivision.svg",
+        "text": "Raynet CRM integration for automated generation of PDF offers for prospective customers.",
+        "tags": [
+          "Laravel",
+          "Vue.js",
+          "Raynet CRM"
+        ]
+      },
+      {
+        "title": "Batlify",
+        "type": "Hosting and cloud infrastructure",
+        "url": "https://www.batlify.com",
+        "image": "/projects/batlify.jpg",
+        "text": "My own company providing virtual datacenters, rack housing, domain registration and custom software. I am responsible for the complete technical solution – from infrastructure design and build-out through the website and admin panel to internal systems.",
+        "tags": [
+          "Infrastructure design and build-out",
+          "Virtual datacenters",
+          "Website",
+          "Admin panel",
+          "Internal systems"
+        ],
+        "badge": "In development"
+      }
+    ],
+    "shotAlt": "Preview of {name}",
+    "more": {
+      "title": "More projects",
+      "text": "The projects above are only a small part of my work. I will gladly share an overview of further projects and references on request.",
+      "cta": "Request references",
+      "subject": "Request for references"
+    },
+    "openLabel": "View project {name}"
+  },
+  "experience": {
+    "title": "Experience",
+    "aside": "professional experience",
+    "items": [
+      {
+        "period": "12/2019 – present",
+        "role": "Managing Director (CEO)",
+        "company": "Batlify Internet s.r.o.",
+        "text": "Managing the company and responsible for its complete technical solution – infrastructure design and build-out, website, admin panel and internal systems."
+      },
+      {
+        "period": "09/2026 – present",
+        "role": "Lecturer",
+        "company": "IT - svet mladých, o.z.",
+        "text": "Occasional teaching at schools as an external lecturer."
+      },
+      {
+        "period": "04/2024 – present",
+        "role": "External developer and contractor",
+        "company": "ALUnico s.r.o.",
+        "text": ""
+      },
+      {
+        "period": "09/2023 – 05/2024",
+        "role": "Customer care",
+        "company": "Conectart CZ",
+        "text": "Customer support for Vodafone (SAZKAmobil) clients."
+      }
+    ],
+    "summary": "Since {year} I have been working professionally on web, system and mobile applications and on designing and operating infrastructure.",
+    "cv": "Download full CV (PDF)"
+  },
+  "contact": {
+    "title": "Contact",
+    "text": "Need an application developed, an existing system taken over or infrastructure designed? Send me a message and we can discuss the next steps.",
+    "copy": "Copy email",
+    "copied": "Email copied",
+    "write": "Send an email"
+  },
+  "footer": {
+    "rights": "© {year} Michal Lipka",
+    "top": "Back to top"
+  }
+}
